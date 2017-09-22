@@ -1,0 +1,1 @@
+An simple example embedding and manipulating a TerriaJS iframe map using Reflex FRP. Currently requires the `try-reflex` sandbox environment available at https://github.com/reflex-frp/reflex-platform.
